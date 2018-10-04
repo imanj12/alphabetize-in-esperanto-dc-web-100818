@@ -1,5 +1,5 @@
 def alphabetize(arr)
   
-  arr.sort_by { |letter| 
+  arr.sort_by { |phrase|  
   
 end
