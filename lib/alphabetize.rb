@@ -1,7 +1,6 @@
 
-
 def alphabetize(arr)
-  esperanto = " abcĉdefgĝhĥijĵklmnoprsŝtuŭvz"
+  esperanto = "abcĉdefgĝhĥijĵklmnoprsŝtuŭvz"
   new_arr = []
   
   new_arr = arr.sort_by do |phrase|
