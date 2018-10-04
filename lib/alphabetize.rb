@@ -1,4 +1,4 @@
-esperanto = "abcĉdefgĝhĥijĵklmnoprsŝtuŭvz"
+esperanto = " abcĉdefgĝhĥijĵklmnoprsŝtuŭvz"
 
 def alphabetize(arr)
   new_arr = []
