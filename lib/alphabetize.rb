@@ -1,6 +1,7 @@
 def alphabetize(arr)
   
   arr.sort_by do |phrase|
-    phrase.split
+    phrase.split("").map do |a|
+      
   
 end
