@@ -1,4 +1,4 @@
-ESPERANTO_ALPHABET = "abcĉdefgĝhĥijĵklmnoprsŝtuŭvz"
+esperanto = "abcĉdefgĝhĥijĵklmnoprsŝtuŭvz"
 
 def alphabetize(arr)
   
