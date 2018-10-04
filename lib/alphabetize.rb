@@ -1,4 +1,3 @@
-
 def alphabetize(arr)
   esperanto = "abcĉdefgĝhĥijĵklmnoprsŝtuŭvz"
   sorted = []
