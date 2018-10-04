@@ -1,5 +1,5 @@
 def alphabetize(arr)
   
-  arr.sort_by { |phrase|  
+  arr.sort_by { |phrase| phrase.split 
   
 end
